@@ -12,22 +12,12 @@
    + K-Means Clustering
    + Cluster Interpretation
    + Silhouette Score Analysis
+### Visualization
+   + Key charts and graphs
 ### Insights
-    + High-Value Customers
-    + Engagement Trends
-    + Campaign Effectiveness
-###  Visualizations
-    + Key Charts and Graphs
-### Recommendations
-    + Marketing Strategies
-    + Age-Specific Campaigns
-    + Campaign Optimization
-### Conclusion
-    + Summary of Findings
-    + Next Steps
-
-
-
+   + High Value Customers
+   + Engagement Trends
+   + Campaign Effectiveness
 
 
 
