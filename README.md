@@ -18,6 +18,11 @@
    + High Value Customers
    + Engagement Trends
    + Campaign Effectiveness
+### Marketing Strategies
+   + Marketing Strategies
+   + Age-Specific Campaign
+   + Camapaign Optimization
+
 
 
 
