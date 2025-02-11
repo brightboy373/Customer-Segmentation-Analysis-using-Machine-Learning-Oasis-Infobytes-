@@ -4,6 +4,30 @@
   + Project Description
   +	Key Questions
   + Dataset Overview
+### Data Wrangling and Exploration
+   + Data Cleaning
+   + Feature Engineering
+   + Descriptive Statistics
+### Customer Segmentation
+   + K-Means Clustering
+   + Cluster Interpretation
+   + Silhouette Score Analysis
+### Insights
+    + High-Value Customers
+    + Engagement Trends
+    + Campaign Effectiveness
+###  Visualizations
+    + Key Charts and Graphs
+### Recommendations
+    + Marketing Strategies
+    + Age-Specific Campaigns
+    + Campaign Optimization
+### Conclusion
+    + Summary of Findings
+    + Next Steps
+
+
+
 
 
 
