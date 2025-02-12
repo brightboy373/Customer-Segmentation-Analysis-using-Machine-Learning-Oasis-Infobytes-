@@ -157,6 +157,5 @@ The dataset contains **2,205 rows** and **39 columns**, including:
 - Monitor campaign performance and refine strategies as needed.
 - Explore advanced techniques like RFM analysis for deeper insights.
 
----
 
-## GitHub Repository Structure
+
