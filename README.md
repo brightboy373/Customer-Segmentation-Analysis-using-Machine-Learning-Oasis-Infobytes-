@@ -78,8 +78,8 @@ The dataset contains **2,205 rows** and **39 columns**, including:
 
 ### Descriptive Statistics
 - Analyzed key metrics:
-  - Average income: $51,622.
-  - Average total spending: $607.
+  - Average income: $48,613.
+  - Average total spending: $473.
   - Average engagement score: 16.5.
 
 ---
