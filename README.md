@@ -1,7 +1,5 @@
 # Customer Segmentation Analysis Documentation
 
-This document provides a detailed overview of the **Customer Segmentation Analysis** project, including the methodology, insights, and recommendations. This analysis was conducted to segment customers of an e-commerce company based on their behavior and purchase patterns, with the goal of informing targeted marketing strategies and improving customer satisfaction.
-
 ---
 
 ## Table of Contents
