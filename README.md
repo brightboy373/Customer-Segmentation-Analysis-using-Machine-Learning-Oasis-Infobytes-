@@ -75,6 +75,7 @@ The dataset contains **2,205 rows** and **39 columns**, including:
   - **Income Group**: Divided into low, mid, high, and very high based on quartiles.
   - **Engagement Score**: Sum of web purchases, catalog purchases, store purchases, and web visits.
   - **Total Amount Spent**: Sum of spending across all product categories.
+  - **K_Marital and K_Education: Applied one-hot encoding to transform categorical variables, such as marital status and education, into numerical format using NumPy’s select function for improved model compatibility.
 
 ### Descriptive Statistics
 - Analyzed key metrics:
